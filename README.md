@@ -2,7 +2,7 @@
 
 Merhaba,bu projede öncelikle oda sıcaklığıni ve nemi ölçtük.
 Daha sonra ise internetten hava durumu bilgileri api vasıtası ile çekerek oled ekrana bilgileri yazdırdık.
-Aynı zaman da "EasyNTPClient" kütüphanesi kullanılarak tarih ve saat bilgisi alındı ve ekrana yazdılrıldı.
+Aynı zaman da "EasyNTPClient" kütüphanesi kullanılarak tarih ve saat bilgisi alındı ve ekrana yazdırıldı.
 Geliştirilmeye açık bir projedir.
 
 
