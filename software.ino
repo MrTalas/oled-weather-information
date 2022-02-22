@@ -11,8 +11,8 @@
 #include "him.c"
 #include "weather.c"
 
-const char* ssid     = "TurkTelekom_TBB1F";
-const char* password = "0xXT4LxD";
+const char* ssid     = "XXXXXXXXXX";
+const char* password = "XXXXXXXXXX";
 
 int UTC_FARKI=3;
 
